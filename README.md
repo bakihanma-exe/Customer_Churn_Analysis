@@ -80,13 +80,6 @@ Designing targeted retention campaigns
 
 Improving service packages and customer experience
 
-🚀 Future Enhancements
-
-Develop predictive ML models for churn classification.
-
-Integrate dashboards (e.g., Power BI / Tableau) for interactive visualization.
-
-Automate churn alert systems for real-time analytics.
 
 📂 Repository Structure
 Telecom-Customer-Churn/
@@ -95,4 +88,4 @@ Telecom-Customer-Churn/
 ├── data/                    # Dataset folder (add your CSV file here)
 ├── images/                  # Visualizations and plots
 ├── README.md                # Project documentation (this file)
-└── requirements.txt         # List of required Python packages
+
